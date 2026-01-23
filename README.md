@@ -1,4 +1,6 @@
-#Hi, I'm Govindu Dandeniya
+<h1><p align="center">Hi, I'm Govindu Dandeniya</p></h1>
+
+
 
 
 # 💫 About Me:
@@ -21,4 +23,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GovinduDandeniya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
