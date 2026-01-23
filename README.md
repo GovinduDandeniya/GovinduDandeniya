@@ -1,3 +1,6 @@
+#Hi, I'm Govindu Dandeniya
+
+
 # 💫 About Me:
  👨‍💻 About Me<br>- 🌱 Currently learning React.js, Python, and Java<br>- 💻 Interested in Web Development & Software Engineering<br>- 🧠 Strong foundation in **OOP, Databases, and ICT concepts<br>- 🛠 Experience with Git, GitHub, and VS Code<br><br>
 
