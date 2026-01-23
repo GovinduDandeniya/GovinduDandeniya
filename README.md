@@ -9,7 +9,7 @@
  👨‍💻 About Me<br>- 🌱 Currently learning React.js, Python, and Java<br>- 💻 Interested in Web Development & Software Engineering<br>- 🧠 Strong foundation in **OOP, Databases, and ICT concepts<br>- 🛠 Experience with Git, GitHub, and VS Code<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/govindudandeniya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techzenlk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govindudandeniya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/techzenlk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechzenLK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindudandeniya@gmail.com) 
 
 # 💻 Tech Stack:
@@ -19,7 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=GovinduDandeniya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduDandeniya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GovinduDandeniya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
