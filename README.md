@@ -1,7 +1,9 @@
 <h1><p align="center">Hi, I'm Govindu Dandeniya</p></h1>
 
 
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 # 💫 About Me:
  👨‍💻 About Me<br>- 🌱 Currently learning React.js, Python, and Java<br>- 💻 Interested in Web Development & Software Engineering<br>- 🧠 Strong foundation in **OOP, Databases, and ICT concepts<br>- 🛠 Experience with Git, GitHub, and VS Code<br><br>
