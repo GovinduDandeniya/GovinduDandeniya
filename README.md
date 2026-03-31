@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govindu Dandeniya</h1>
-<h3 align="center">Full-Stack Developer | Backend Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Computer Science Undergraduate </h3>
 
 ---
 
