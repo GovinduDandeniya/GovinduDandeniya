@@ -1,27 +1,84 @@
-<h1><p align="center">Hi, I'm Govindu Dandeniya</p></h1>
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-# 💫 About Me:
- 👨‍💻 About Me<br>- 🌱 Currently learning React.js, Python, and Java<br>- 💻 Interested in Web Development & Software Engineering<br>- 🧠 Strong foundation in **OOP, Databases, and ICT concepts<br>- 🛠 Experience with Git, GitHub, and VS Code<br><br>
-
-
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/govindudandeniya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techzenlk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govindudandeniya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/techzenlk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechzenLK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindudandeniya@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GovinduDandeniya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GovinduDandeniya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduDandeniya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GovinduDandeniya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi 👋, I'm Govindu Dandeniya</h1>
+<h3 align="center">Full-Stack Developer | Backend Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GovinduDandeniya&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💫 About Me
+
+- 🎓 Second-year BSc (Hons) Computing undergraduate  
+- 💻 Focused on **Full-Stack Development & Backend Systems**  
+- ⚙️ Interested in **API Design, Scalable Systems, and System Architecture**  
+- 🧠 Strong foundation in **OOP, Data Structures & Algorithms**  
+- 🚀 Currently exploring **Go, REST APIs, and Backend Engineering**  
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+JavaScript, Java, Python, Go  
+
+**Frontend:**  
+Next.js, React, HTML5, CSS3  
+
+**Backend:**  
+Node.js, Express.js, RESTful APIs  
+
+**Database:**  
+MongoDB, MySQL  
+
+**Tools & Cloud:**  
+Git, GitHub, Postman, VS Code, MongoDB Atlas, AWS  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Lakwedha – Ayurvedic Doctor Channeling Platform
+- Built a full-stack system using Next.js, Node.js, and MongoDB  
+- Designed and implemented RESTful APIs  
+- Applied client-server architecture and database integration  
+
+---
+
+### 🔹 URL Shortener API (Go)
+- Developed a backend service using Go  
+- Implemented efficient key-value mapping and redirection  
+- Optimized for **O(1) lookup time complexity**  
+
+---
+
+### 🔹 Module & Assignment Planner
+- Built a task management system with Next.js and Node.js  
+- Integrated backend APIs and database functionality  
+- Implemented structured UI for tracking deadlines  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/govindudandeniya  
+- 💻 GitHub: https://github.com/GovinduDandeniya  
+- 📧 Email: govindudandeniya@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=GovinduDandeniya&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=GovinduDandeniya&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduDandeniya&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🎯 Current Focus
+
+- 🔹 Backend development with Node.js & Go  
+- 🔹 API design and system architecture  
+- 🔹 Building scalable and efficient applications  
+
+---
+
+⭐ *Always learning, building, and improving.*
